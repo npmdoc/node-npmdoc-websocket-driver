@@ -1,4 +1,7 @@
-# api documentation for  [websocket-driver (v0.6.5)](https://github.com/faye/websocket-driver-node)  [![npm package](https://img.shields.io/npm/v/npmdoc-websocket-driver.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-websocket-driver) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-websocket-driver.svg)](https://travis-ci.org/npmdoc/node-npmdoc-websocket-driver)
+# npmdoc-websocket-driver
+
+#### basic api documentation for  [websocket-driver (v0.6.5)](https://github.com/faye/websocket-driver-node)  [![npm package](https://img.shields.io/npm/v/npmdoc-websocket-driver.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-websocket-driver) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-websocket-driver.svg)](https://travis-ci.org/npmdoc/node-npmdoc-websocket-driver)
+
 #### WebSocket protocol handler with pluggable I/O
 
 [![NPM](https://nodei.co/npm/websocket-driver.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/websocket-driver)
@@ -62,7 +65,8 @@
     "scripts": {
         "test": "jstest spec/runner.js"
     },
-    "version": "0.6.5"
+    "version": "0.6.5",
+    "bin": {}
 }
 ```
 
